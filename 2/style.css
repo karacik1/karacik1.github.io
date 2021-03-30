@@ -1,0 +1,249 @@
+* {
+     margin: 0;
+     padding: 0;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+     font: 16px/24px Arial;
+   }
+
+    p:not(.p1, .p2, .p3, .name, .slog) {
+     text-align: center;
+     /* font-size: 14; */
+     font-family: sans-serif;
+     font-weight: bolder;
+     font-size: 20px;
+     /* background-image: url(C:\Users\яся\Desktop\Метариалы Проекта\шапка.png); */
+   }
+
+   .wrap {
+     max-width: 960px;
+     margin: 0 auto;
+     background: #fff;
+     position: relative;
+     z-index: 1;
+
+   }
+
+   .bgr {
+     position: relative;
+     display: block;
+     height: 100%;
+     width: 100%;
+     /* margin-bottom: -480px; */
+   }
+
+   .bgr:after {
+     content: ' ';
+     position: absolute;
+     top: 0;
+     left: 0;
+     bottom: 0;
+     right: 0;
+     opacity: 0;
+     transition: opacity .2s ease-in-out;
+
+   }
+
+   .bgr:hover:after {
+     /* opacity: .2; */
+   }
+  .shap {
+    width: 960px;
+    position: relative;
+    top: 98px;
+    z-index: 7;
+  }
+  .block {
+    background-color: #effbf2;
+    position: relative;
+    height: 50px;
+    z-index: 2;
+    width: 960px;
+    top: 0;
+
+  }
+  .name {
+    height: 50px;
+    width: 200px;
+    right: 0;
+    z-index: 3;
+    position: relative;
+    background-color: #a8c5b0;
+    padding: 20px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    top: -50px;
+    float: right;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: #effbf2;
+  }
+  .slog {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    position: relative;
+    top: 50px;
+    left: 80px;
+    color: #a8c5b0
+
+  }
+
+
+  .info1, .info2, .info3 {
+    width: 250px;
+    position: relative;
+
+  }
+
+  .info1 {
+    top: 25px;
+    left: 80px;
+    height: 170px;
+    width: 210px;
+  }
+  .info3 {
+    top: 55px;
+    left: 40px;
+  }
+  .info2 {
+    top: 40px;
+    left: 670px;
+  }
+
+
+
+  .one, .two, .tree {
+    padding: 1px;
+    height: 330px;
+  }
+  .one, .tree {
+    background-color: #effbf2;
+  }
+  .two {
+    background-color: #a8c5b0;
+  }
+
+
+
+  .t1, .t2, .t3  {
+    position: relative;
+
+  }
+  .t2 {
+    text-align: center;
+    top: -120px;
+    left: -170px;
+    color: #effbf2;
+  }
+  .t1 {
+    top: 140px;
+    left: 130px;
+    color: #a8c5b0;
+  }
+  .t3 {
+    top: -120px;
+    left: 130px;
+    color: #a8c5b0;
+  }
+
+
+
+  .i1, .i2, .i3 {
+    position: relative;
+    width: 50px;
+    left: 400px;
+    top: -10px;
+  }
+
+
+  .bot {
+    background: #d2e5d7;
+  }
+
+
+  .p1 {
+    position: relative;
+    top: 50px;
+    left: -330px;
+    text-align: center;
+    color: #effbf2;
+  }
+  .p2 {
+    position: relative;
+    top: -40px;
+    left: 0px;
+    text-align: center;
+    color: #effbf2;
+  }
+  .p3 {
+    position: relative;
+    top: -120px;
+    left: 340px;
+    text-align: center;
+    color: #effbf2;
+  }
+
+
+
+  .shap2 {
+    background-color: #d2e5d7;
+  }
+
+
+
+  .left {
+    background-color: #d2e5d7;
+    width: 472px;
+    height: 50px;
+    position: relative;
+    top: -1309px;
+    transform: rotate(-4deg);
+    left: 490px;
+  }
+  .right {
+    background-color: #d2e5d7;
+    width: 500px;
+    height: 50px;
+    position: relative;
+    top: -1260px;
+    transform: rotate(4deg);
+  }
+  body {
+    position: relative;
+    top: -90px;
+  }
+  a:hover {
+    color: green;
+  }
+  a {
+    text-decoration: none;
+    color: #a8c5b0;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .u {
+    width: 960px;
+    height: 990px;
+    background-color: #effbf2;
+    position: relative;
+    top: 98px;
+    z-index: 7;
+  }
+  .ut {
+    position: relative;
+    top: 200px;
+    color: #a8c5b0;
+  }
+  .utt {
+    position: relative;
+    top: 190px;
+    font-size: 50px;
+    color: #a8c5b0;
+
+  }
