@@ -198,6 +198,26 @@ html, body{
   .shap2 {
     background-color: #d2e5d7;
   }
+  .left1 {
+    background-color: #effbf2;
+    width: 472px;
+    height: 150px;
+    position: relative;
+    top: -1359px;
+    transform: rotate(-4deg);
+    left: 490px;
+    z-index: 8;
+  }
+  .right1 {
+    background-color: #effbf2;
+    width: 520px;
+    height: 150px;
+    position: relative;
+    top: -1208px;
+    transform: rotate(4deg);
+    z-index: 8;
+  }
+
 
 
 
