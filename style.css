@@ -110,7 +110,6 @@ html, body{
     left: 80px;
     height: 170px;
     width: 210px;
-    -o-color: red;
   }
   .info3 {
     top: 55px;
@@ -150,6 +149,7 @@ html, body{
     top: 140px;
     left: 130px;
     color: #a8c5b0;
+    -o-color: red;
   }
   .t3 {
     top: -120px;
