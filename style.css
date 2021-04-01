@@ -149,7 +149,7 @@ html, body{
     top: 140px;
     left: 130px;
     color: #a8c5b0;
-    -o-color: red;
+    -o-transform: scaleX(100px);
   }
   .t3 {
     top: -120px;
