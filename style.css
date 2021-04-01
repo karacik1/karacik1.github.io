@@ -553,4 +553,9 @@ html, body{
   }
 
 } 
+@media all and (min-width: 0) { 
+.t1 {
+color:red;
+}
+}
 
