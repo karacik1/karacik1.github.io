@@ -110,6 +110,7 @@ html, body{
     left: 80px;
     height: 170px;
     width: 210px;
+    -o-left:200px;
   }
   .info3 {
     top: 55px;
