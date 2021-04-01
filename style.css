@@ -139,7 +139,7 @@ html, body{
 
 
   .t1, .t2, .t3  {
-    position: relative;
+    
 
   }
   .t2 {
@@ -147,17 +147,20 @@ html, body{
     top: -120px;
     left: -170px;
     color: #effbf2;
+    position: relative;
   }
   .t1 {
     top: 140px;
     left: 130px;
     color: #a8c5b0;
-    -o-transform: translateX(100px)
+    -o-transform: translateX(100px);
+    position: relative;
   }
   .t3 {
     top: -120px;
     left: 130px;
     color: #a8c5b0;
+    position: relative;
   }
 
 
