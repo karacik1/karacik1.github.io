@@ -546,3 +546,10 @@ html, body{
 
 
 }
+@media all and (-webkit-min-device-pixel-ratio:10000),not all and (-webkit-min-device-pixel-ratio:0) {
+
+.е1{
+  color:red;
+  }
+
+} 
