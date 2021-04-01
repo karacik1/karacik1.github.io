@@ -9,6 +9,9 @@ html, body{
      box-sizing: border-box;
      font: 16px/24px Arial;
    }
+      .cls {
+       clear:both; height:0; font-size:0; line-height:0; visibility:hidden;
+      }
 
     p:not(.p1, .p2, .p3, .name, .slog) {
      text-align: center;
