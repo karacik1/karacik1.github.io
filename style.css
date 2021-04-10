@@ -19,8 +19,10 @@ html, body{
      font-family: sans-serif;
      font-weight: bolder;
      font-size: 20px;
-     /* background-image: url(C:\Users\яся\Desktop\Метариалы Проекта\шапка.png); */
    }
+  p {
+     text-align: center;
+    }
 
    .wrap {
      max-width: 960px;
