@@ -283,7 +283,11 @@ html, body{
 
 
 @media(min-width: 0px) and (max-width: 320px){
-
+  .info1{
+    width:83px;
+    height: 80px;
+    top:20px;
+  }
   .slog{
     font-size: 22px;
     width: 100%;
