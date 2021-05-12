@@ -443,6 +443,11 @@ html, body{
     left: 35%;
     top: 60%;
   }
+    .info1{
+    width:83px;
+    height: 80px;
+    top:20px;
+  }
 
 }
 @media(min-width: 481px) and (max-width: 768px){
@@ -525,6 +530,11 @@ html, body{
 }
 
 @media(min-width: 769px) and (max-width: 992px){
+    .info1{
+    width:83px;
+    height: 80px;
+    top:20px;
+  }
 
   .info1, .info2, .info3 {
     /* height: 290px;
