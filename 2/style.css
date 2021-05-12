@@ -173,21 +173,21 @@ html, body{
 
   .p1 {
     position: relative;
-    top: 50px;
+    top: 138px;
     left: -330px;
     text-align: center;
     color: #effbf2;
   }
   .p2 {
     position: relative;
-    top: -40px;
+    top: 26px;
     left: 0px;
     text-align: center;
     color: #effbf2;
   }
   .p3 {
     position: relative;
-    top: -120px;
+    top: -61px;
     left: 340px;
     text-align: center;
     color: #effbf2;
@@ -336,7 +336,7 @@ html, body{
   .i1, .i2, .i3 {
     width: 35px;
     left: 30%;
-    top: 60%;
+    top: 36%;
   }
 
   .u {
