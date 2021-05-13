@@ -308,7 +308,7 @@ html, body{
     height: 400px;
   }
   .left, .right{
-    display: none;
+   visibility: hidden;
   }
   .t1, .t2, .t3{
     font-size: 14px;
@@ -405,7 +405,7 @@ html, body{
     height: 400px;
   }
   .left, .right{
-    display: none;
+   visibility: hidden;
   }
   .t1, .t2, .t3{
     font-size: 14px;
@@ -483,7 +483,7 @@ html, body{
     height: 400px;
   }
   .left, .right{
-    display: none;
+    visibility: hidden;
   }
   .t1, .t2, .t3{
     font-size: 14px;
