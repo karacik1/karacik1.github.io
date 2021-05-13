@@ -448,7 +448,7 @@ html, body{
     height: 80px;
     top:-25%;
   }
-  
+}
 @media(min-width: 481px) and (max-width: 627px){
   .u {
     height: 1350px;
@@ -526,7 +526,7 @@ html, body{
     top: 60%;
   }
 
-}
+
 }
 @media(min-width: 627px) and (max-width: 768px){
   .u {
