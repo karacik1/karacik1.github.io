@@ -400,7 +400,7 @@ html, body{
   .info1, .info2, .info3 {
     height: 90px;
     width: 93px;
-    top: -145px;
+    top: -14px;
     left: 41%;
   }
   .info2 {
@@ -446,7 +446,7 @@ html, body{
     .info1{
     width:83px;
     height: 80px;
-    top:-40%;
+    top:-120%;
   }
 }
 @media(min-width: 481px) and (max-width: 627px){
