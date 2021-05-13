@@ -446,7 +446,7 @@ html, body{
     .info1{
     width:83px;
     height: 80px;
-    top:-25%;
+    top:-35%;
   }
 }
 @media(min-width: 481px) and (max-width: 627px){
