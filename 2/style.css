@@ -308,7 +308,7 @@ html, body{
     height: 400px;
   }
   .left, .right{
-    visibility: hidden;
+    display: none;
   }
   .t1, .t2, .t3{
     font-size: 14px;
