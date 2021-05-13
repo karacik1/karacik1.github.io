@@ -342,18 +342,13 @@ html, body{
   .u {
     height: 1350px;
   }
-  .ut {
+  .ut,.utt {
     width: 90vw;
     padding-left: 9px;
     padding-right: 9px;
     font-weight: normal;
     left: 0px;
     /* padding-bottom: 60px; */
-  }
-  .utt {
-    width: 50vw;
-    left: 50px;
-    top: 12%;
   }
 
 }
@@ -362,18 +357,13 @@ html, body{
   .u {
     height: 1350px;
   }
-  .ut {
+  .ut,.utt {
     width: 90vw;
     padding-left: 9px;
     padding-right: 9px;
     font-weight: normal;
     left: 0px;
     /* padding-bottom: 60px; */
-  }
-  .utt {
-    width: 25%;
-    left: 50px;
-    top: 12%;
   }
 
   .slog{
@@ -441,18 +431,13 @@ html, body{
   .u {
     height: 1350px;
   }
-  .ut {
+  .ut,.utt {
     width: 90vw;
     padding-left: 9px;
     padding-right: 9px;
     font-weight: normal;
     left: 0px;
     /* padding-bottom: 60px; */
-  }
-  .utt {
-    width: 50vw;
-    left: 15%;
-    top: 12%;
   }
   .slog{
     font-size: 22px;
@@ -540,10 +525,4 @@ html, body{
   .t3{
     top: -20%;
   }
-  .ut {
-
-
-  }
-
-
 }
