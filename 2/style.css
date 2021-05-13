@@ -16,7 +16,6 @@ html, body{
      font-family: sans-serif;
      font-weight: bolder;
      font-size: 20px;
-     /* background-image: url(C:\Users\яся\Desktop\Метариалы Проекта\шапка.png); */
    }
 
    .wrap {
@@ -513,6 +512,9 @@ html, body{
     width: 35px;
     left: 43%;
     top: 60%;
+  }
+    .left, .right{
+    visibility: hidden;
   }
 
 }
